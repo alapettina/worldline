@@ -1,4 +1,4 @@
-# web
+# worldline
 
 - You have the pages objects in the path src/main/java/pages
 Here are declared the elements of the page.
@@ -15,4 +15,4 @@ and all the dependencies will be installed
 
 - Run local the execution class is in src/main/java/TestRunner
 - The reports are generated in target/Report with the index name.
-# worldline
+
